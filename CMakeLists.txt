@@ -3,4 +3,4 @@ project(LintCodeCPlusPlus)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LintCodeCPlusPlus main.cpp)
+add_executable(LintCodeCPlusPlus main.cpp Lint66.cpp Lint66.h)

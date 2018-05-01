@@ -1,6 +1,9 @@
 #include <iostream>
+#include "Lint66.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    Lint66 lint66;
+
     return 0;
 }
